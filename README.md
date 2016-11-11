@@ -11,5 +11,5 @@ Copy a file to a folder, if there's the same file in the folder elsewhere, then 
        [.unique-copy]		//config folder
          .unique-copy-tool	//config file, double click to open manage tool.
          .db			//database
-
+5.
 
