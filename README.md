@@ -7,9 +7,11 @@ Copy a file to a folder, if there's the same file in the folder elsewhere, then 
 2. md5  + size + md5-head-512
 3. sqlite db
 4. a user folder with ".unique-copy" subfolder,
-`     [dest folder]`
-`       [.unique-copy]		//config folder`
-`         .unique-copy-tool	//config file, double click to open manage tool.`
-`         .db			//database`
+```
+     [dest folder]
+       [.unique-copy]		//config folder
+         .unique-copy-tool	//config file, double click to open manage tool.
+         .db			//database
+```
 5.
 
